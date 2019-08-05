@@ -6,6 +6,23 @@
   font-size: 170px;
 }
 
+.mainBackground {
+  background-image: url('https://files.slack.com/files-pri/T6BRWAL7P-FM46M622K/homepage.jpg');  
+  background-size: 80%;
+  background-position: center;
+}
+
+.mainButtons {
+  position: absolute; 
+  bottom: 50px; 
+}
+
+.svgBackground {
+  background-image: url('https://files.slack.com/files-pri/T6BRWAL7P-FM4EP4PP1/svg.jpg');  
+  background-size: 80%;
+  background-position: center;
+}
+
 .secondtext {
   font-family: 'Fira Code';
   font-size: 30px;

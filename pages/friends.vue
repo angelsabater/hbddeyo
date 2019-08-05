@@ -5,15 +5,15 @@
         <v-container grid-list-sm fluid>
           <v-layout wrap>
             <v-flex
-              v-for="n in 30"
+              v-for="n in 6"
               :key="n"
-              xs2
+              xs6
               d-flex
               child-flex
             >
               <v-card flat tile class="d-flex">
                 <v-layout>
-                  <v-flex>
+                  <v-flex xs4>
                     <v-img
                       :src="`https://picsum.photos/500/300?image=${n * 5 + 10}`"
                       :lazy-src="`https://picsum.photos/10/6?image=${n * 5 + 10}`"
@@ -32,6 +32,11 @@
                         </v-layout>
                       </template>
                     </v-img>
+                  </v-flex>
+                  <v-flex xs8 pa-4>
+                    <span class="message">
+                      An arrow is a graphical symbol, such as ← or →, or a pictogram, used to point or indicate direction. In its simplest form an arrow is a triangle, chevron, or concave kite, usually affixed to a line segment or rectangle, and in more complex forms a representation of an actual arrow
+                    </span>
                   </v-flex>
                 </v-layout>
               </v-card>
