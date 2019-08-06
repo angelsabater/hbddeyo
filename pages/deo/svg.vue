@@ -3,7 +3,6 @@
     class="svgBackground">
     <v-flex >
           <v-btn to="/deo" style="position: absolute; bottom: 40px; right: 200px"> → back </v-btn>
-          <v-btn to="/msgs" style="position: absolute; bottom: 40px; right: 300px"> → msgs </v-btn>
     </v-flex>
 
   
