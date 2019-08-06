@@ -8,7 +8,7 @@
         fab large color="red"
         style="position: absolute; top: 300px; left: 200px"
       >
-        <v-icon dark>← tura</v-icon>
+        <v-icon dark>← james</v-icon>
       </v-btn>
       <v-btn 
         to="/deo"
