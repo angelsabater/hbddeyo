@@ -5,7 +5,7 @@
         <v-container grid-list-sm fluid>
           <v-layout wrap>
             <v-flex
-              v-for="n in 6"
+              v-for="n in 12"
               :key="n"
               xs6
               d-flex

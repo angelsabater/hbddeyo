@@ -2,8 +2,24 @@
   <v-layout 
     class="mainBackground">
     <v-flex >
-          <v-btn to="/svg" style="position: absolute; bottom: 50px; right: 213px"> → svg </v-btn>
-          <v-btn to="/friends" style="position: absolute; bottom: 50px; right: 300px"> → msgs </v-btn>
+      <v-btn 
+        to="/james" 
+        class="mx-2"
+        fab dark large color="blue"
+        style="position: absolute; top: 300px; left: 250px"
+      >
+        <v-icon dark>← tura</v-icon>
+      </v-btn>
+      <v-btn 
+        to="/deo"
+        class="mx-2" 
+        fab dark large 
+        color="blue"
+        style="position: absolute; top: 300px; right: 250px"
+      >
+          <v-icon dark>deo →</v-icon>
+      </v-btn>
+
     </v-flex>
 </v-layout>
 </template>
