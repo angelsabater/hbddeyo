@@ -54,7 +54,7 @@
         messages: [
           {message: "Happy Birthday Tura! Wish you all the best. Goodluck sa career pero tangina dapat may swimming pa din dapat tayo tsaka christmas party ahahahaha. Yun lang. Advance salamat sa libre nyo hehe 😄", 
           src:"https://scontent-nrt1-1.xx.fbcdn.net/v/t1.0-9/61564265_2318089924950431_1715318940550299648_n.jpg?_nc_cat=108&_nc_oc=AQkq_FSfVaYha9Co8zILq2ZBQpU5LaPAByvoVD9XokFSrc-HZrINTphFRnp3hMhN654&_nc_ht=scontent-nrt1-1.xx&oh=67fef161796697a8d1a50ff8312b297c&oe=5DA3B0D6"},
-          {message: "Happy borkday deyss level 21 ka na HAHAHA naks bilis magpalevel penge naman ng tips labyu 😘 -James",
+          {message: "Happy borkday deyss level 21 ka na HAHAHA naks bilis magpalevel penge naman ng tips labyu 😘 -Jason",
           src:"https://scontent-nrt1-1.xx.fbcdn.net/v/t1.0-9/12642508_1107959615894338_2078157610332352726_n.jpg?_nc_cat=104&_nc_oc=AQm4-4Xh6h6flIB0FJqHj9GNzOPktZvtnXk3uvi-37ARcGx4BQH1XR3I_0BmE1MT3zg&_nc_ht=scontent-nrt1-1.xx&oh=72915a923fed00978219bf14b1cef004&oe=5DDC1732"},
           {message: "UYY DEYOO HAPPY BIRTHDAAY KAHIT WALA NA TAYONG MASHADONG BONDING DI MO PARIN NAKAKALIMUTAN YUNG NAZARENO NIYO HAHAHAHAHAHA CHOS PERO AYUN HAPPY BIRTHDAY DEYO INGAT KA PALAGI ALAM KO NAMAN NA KAYA MO ANG LYF HAHAHAHAHA ETNEB LANG SA UMAGA AT GABI PARA MAY TAKWARENTS KA KICKBACK KA NA LANG NG PUSAM MAY TASINGKWENT KA NA HAHAHAHAHA AYUN GOOD LUCK SA BUHAY SANA NAEENJOY MO WORK MOO YIEEEE LABYU DEYO HAPPY BORTHDOOOY -Julius",
           src: "https://scontent-nrt1-1.xx.fbcdn.net/v/t1.0-9/12509308_1126462170699357_830006950173846507_n.jpg?_nc_cat=110&_nc_oc=AQkbWgLX0KkgbK5SKIhZYxhld4QJGqoM0nAyO2KCqkg4dOazzniV3mkrFoiIZyX6N3k&_nc_ht=scontent-nrt1-1.xx&oh=567cba494c6c81e5aa664179a169120e&oe=5DCF9AC2"},
